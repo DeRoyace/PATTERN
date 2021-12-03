@@ -2,7 +2,7 @@
 
 int main()
 {
-    getZero();
+    cross_rect();
     printf("\n\n");
     sandClock();
     return 0;

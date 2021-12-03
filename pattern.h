@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 int i,j,k,l,m,p,q,r,t,s;
-int getZero()
+int cross_rect()
 {
     int n=0;
     printf("Enter  Pattern size: ");
