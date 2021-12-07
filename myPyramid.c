@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "pyramid.h"
+#include "pyramid.h" // user-defined header file
 int main()
 {
     getPyramid();
